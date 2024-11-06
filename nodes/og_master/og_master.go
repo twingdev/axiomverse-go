@@ -1,8 +1,8 @@
 package og_master
 
 import (
-	"github.com/genovatix/axiomverse-go-services/core/consensus"
-	"github.com/genovatix/axiomverse-go-services/core/networking"
+	"github.com/twingdev/axiomverse-go/core/consensus"
+	"github.com/twingdev/axiomverse-go/core/networking"
 	"log"
 )
 

@@ -1,4 +1,4 @@
-module github.com/genovatix/axiomverse-go-services/cmd
+module github.com/twingdev/axiomverse-go/cmd
 
 go 1.23.2
 

@@ -1,4 +1,4 @@
-module github.com/genovatix/axiomverse-go-services/core
+module github.com/twingdev/axiomverse-go/core
 
 go 1.23.2
 

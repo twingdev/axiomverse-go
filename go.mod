@@ -1,4 +1,4 @@
-module github.com/genovatix/axiomverse-go-services
+module github.com/twingdev/axiomverse-go
 
 go 1.23.2
 

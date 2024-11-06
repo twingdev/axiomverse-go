@@ -1,3 +1,3 @@
-module github.com/genovatix/axiomverse-go-services/nodes
+module github.com/twingdev/axiomverse-go/nodes
 
 go 1.23.2
