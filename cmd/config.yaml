@@ -1,0 +1,13 @@
+nats:
+  endpoint:  nats://localhost:4222
+  cluster_id: axiomverse-testnet
+  client_id: axiomverse-testnet-client
+
+pyAxiom:
+  endpoint:  https://localserver.theaxiomverse.com:8000
+  chain_id:  axiomverse-testnet
+
+node:
+  host: 0.0.0.0
+  port: 55055
+  chain_id:  axiomverse-testnet
